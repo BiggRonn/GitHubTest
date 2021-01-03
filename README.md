@@ -1,2 +1,2 @@
 # GitHubTest
- testing and learning.... Does this change the file on the website!? Stay tuned to find out!!!
+This is Wes Howard's first Git project! YEE HAWW!! 
